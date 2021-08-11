@@ -1,6 +1,6 @@
 <?php
 
-namespace PaypalExtra;
+namespace PaypalExtra\Requests;
 
 use PayPalHttp\HttpRequest;
 
