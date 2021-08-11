@@ -1,5 +1,5 @@
 
-undefined but necessary request for paypal-connect, this request simple represents this page;
+undefined but necessary request for paypal-connect, this request simply represents this page;
 https://developer.paypal.com/docs/api/identity/v1/#userinfo_get (/v1/identity/oauth2/userinfo)
 
 
