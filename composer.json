@@ -1,0 +1,16 @@
+{
+    "name": "azizyus/paypal-extra",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "can",
+            "email": "canazizoglu97@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PaypalExtra\\": "src/"
+        }
+    }
+}
