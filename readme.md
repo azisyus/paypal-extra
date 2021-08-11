@@ -1,8 +1,12 @@
 
 undefined but necessary request for paypal-connect, this request simple represents this page;
-https://developer.paypal.com/docs/api/identity/v1/#userinfo_get
+https://developer.paypal.com/docs/api/identity/v1/#userinfo_get (/v1/identity/oauth2/userinfo)
 
-## EXAMPLE
+
+## INSTALL
+`composer require azizyus/paypal-extra`
+
+### USAGE
 
 ```
 $scopes = $_GET['scope'];
